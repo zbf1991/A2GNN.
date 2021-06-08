@@ -1,2 +1,2 @@
 # A2GNN
-Code will be available soon.
+Please refer to our another project "A2GNN".
